@@ -5,4 +5,8 @@ I am a javascript programmer (7+ yrs. exp.)
 <br >
 <br>
 
-## 💻 Languages and Tools:  
+### 💻
+- [x] JS / REACT
+- [x] NODEJS / EXPRESS / MONGODB
+- [x] GRAPHQL / APOLLO
+- [x] HTML / CSS
